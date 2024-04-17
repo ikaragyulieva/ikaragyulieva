@@ -6,7 +6,7 @@
 
 <br/>
 
-I am Ivelina, a Project Manager with background in mobile payment solution service. I am very courious about tech which at the end of 2020 let me into applying in the Software Engineering program of SoftUni (coding school) initialy with C# and later specialysing with Python. During my studing I have also worked with JS, HTML, CSS as well as using diferent technoligues for the succesfgul development of a web applications.
+I am Ivelina, a Project Manager with background in mobile payment solution service. I am a tech enthusiast recently graduationg the Software Engineering program of SoftUni (coding school) initialy with C# and later specialysing with Python. During my studing I have also worked with JS, HTML, CSS as well as using diferent technoligues for the succesfgul development of a web applications.
 
 *   🌍  I'm based in Geneva, Switzerland
 *   ✉️  You can contact me at [ivelina.karagulieva@gmail.com](mailto:ivelina.karagulieva@gmail.com)
