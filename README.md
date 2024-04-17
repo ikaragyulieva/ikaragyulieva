@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+This+is+Ivelina+👋;+Nice+to+meet+you!;" />
 </h1>
 
-<h3 align="center" style="color: #3d64ad;">A passionate software developer with solid experience in Project Management</h3>
+<h3 align="center" style="color: #3d64ad;">I am Ivelina, a Project Manager with background in mobile payment solution service. I am very courious about tech which at the end of 2020 let me into applying in the Software Engineering program of SoftUni (coding school) initialy with C# and later specialysing with Python. During my studing I have also worked with JS, HTML, CSS as well as using diferent technoligues for the succesfgul development of a web applications. </h3>
 
 <br/>
 
