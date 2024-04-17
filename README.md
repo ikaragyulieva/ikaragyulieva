@@ -1,4 +1,10 @@
-<p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+This+is+Ivelina!;+Nice+to+ meet+you!" />
+</h1>
+
+<h3 align="center" style="color: #3d64ad;">A passionate software developer from Bulgaria</h3>
+
+<br/>
 
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Nice to meet you!
