@@ -6,7 +6,7 @@
 
 <br/>
 
-I am Ivelina, a Project Manager with background in mobile payment solution service. I am a tech enthusiast recently graduationg the Software Engineering program of SoftUni (coding school) initialy with C# and later specialysing with Python. During my studing I have also worked with JS, HTML, CSS as well as using diferent technoligues for the succesfgul development of a web applications.
+I am Ivelina, a Project Manager with background in mobile payment solution service. I am a tech enthusiast recently graduationg the Software Engineering program of SoftUni (coding school) initialy with C# and later specialysing with Python. I have experience with Python, Django JS, HTML, CSS as well as technoligues for the succesfgul development of a web applications.
 <!--
 *   🌍  I'm based in Geneva, Switzerland
 *   ✉️  You can contact me at [ivelina.karagulieva@gmail.com](mailto:ivelina.karagulieva@gmail.com)
@@ -15,8 +15,8 @@ I am Ivelina, a Project Manager with background in mobile payment solution servi
   ### My Skills 
  <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,django&theme=light" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,mysql,postgres,docker,cs,figma,postman,pycharm&theme=light" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,html,css,vscode,nodejs,mysql,github,git,django&theme=light" />
+    <img src="https://skillicons.dev/icons?i=pycharm,postgres,docker,cs,figma,postman&theme=light" /><br>
 </div>
 <!--
 <p align="left">
