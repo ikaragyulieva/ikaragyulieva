@@ -8,9 +8,13 @@
 
 I am Ivelina, a Project Manager with background in mobile payment solution service. I am a tech enthusiast recently graduating the Software Engineering program of SoftUni (coding school) initialy with C# and later specialysing with Python. I have experience with Python, Django JS, HTML, CSS as well as technoligues for the succesfgul development of a web applications.
 
-[![Linkedin: ivelina-k](https://img.shields.io/badge/ivelina-k%2C?style=flat&logo=linkedin&logoColor=white&labelColor=blue&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fivelina-k%2F)](https://www.linkedin.com/in/ivelina-k/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/ikaragyulieva?label=follow&style=social)](https://github.com/ikaragyulieva)
+<img alt="Static Badge" align="left" alt="oop" height="24px" src="https://img.shields.io/badge/-ivelina--k-blue?style=flat&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fivelina-k%2F" style="padding-right:1em; padding-bottom:0.5em;"/>
+<img alt="Static Badge" align="left" alt="oop" height="24px" src="https://img.shields.io/github/followers/ikaragyulieva?label=follow&style=social" style="padding-right:1em; padding-bottom:0.5em;"/>
+<br/>
 <!--
+[![Linkedin: ivelina-k](https://img.shields.io/badge/-ivelina--k-blue?style=flat&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fivelina-k%2F)](https://www.linkedin.com/in/ivelina-k/)
+[![GitHub ikaragyulieva](https://img.shields.io/github/followers/ikaragyulieva?label=follow&style=social)](https://github.com/ikaragyulieva)
+
 *   🌍  I'm based in Geneva, Switzerland
 *   ✉️  You can contact me at [ivelina.karagulieva@gmail.com](mailto:ivelina.karagulieva@gmail.com)
 *   🤝  I'm open to collaborating on projects
@@ -31,8 +35,8 @@ I am Ivelina, a Project Manager with background in mobile payment solution servi
 
 #### Front-End
 <div style="display: flex; flex-wrap: wrap">
-  <!-- https://img.shields.io/badge/Python-OOP-darkred?logo=Python&labelColor=blue&logoColor=white&style=flat -->
-  <a href="./certificates/HTML & CSS - January 2024 - Certificate.pdf"><img align="left" alt="basics" height="22px" src="./icons/css3_original_ico.svg" style="padding-right:1em; padding-bottom:0.5em;"/></a>
+  <img alt="Static Badge" src="https://img.shields.io/badge/-OOP-black?style=flat&logo=python&label=Python%20&labelColor=white&link=https%3A%2F%2Fgithub.com%2Fikaragyulieva%2Fikaragyulieva%2Fblob%2Fmain%2Fcertificates%2FPython%2520OOP%2520-%2520October%25202023%2520-%2520Certificate.pdf">
+
 </div>
 <br />
 
@@ -40,6 +44,7 @@ I am Ivelina, a Project Manager with background in mobile payment solution servi
 <div style="display: flex; flex-wrap: wrap">
   <!-- https://img.shields.io/badge/Python-OOP-darkred?logo=Python&labelColor=blue&logoColor=white&style=flat -->
   <a href="./certificates/python_algorithms_cert.jpeg"><img align="left" alt="algorithms" height="22px" src="./badges/python_algorithms_badge.svg" style="padding-right:1em; padding-bottom:0.5em;"/></a>
+<img alt="Static Badge" align="left" alt="oop" height="24px" src="https://img.shields.io/badge/-OOP-black?style=flat&logo=python&label=Python%20&labelColor=white&link=https%3A%2F%2Fgithub.com%2Fikaragyulieva%2Fikaragyulieva%2Fblob%2Fmain%2Fcertificates%2FPython%2520OOP%2520-%2520October%25202023%2520-%2520Certificate.pdf"style="padding-right:1em; padding-bottom:0.5em;"/>
   <a href="./certificates/python_oop_cert.jpeg"><img align="left" alt="oop" height="22px" src="./badges/python_oop_badge.svg" style="padding-right:1em; padding-bottom:0.5em;"/></a>
   <a href="./certificates/python_advanced_cert.jpeg"><img align="left" alt="advanced" height="22px" src="./badges/python_advanced_badge.svg" style="padding-right:1em; padding-bottom:0.5em;"/></a>
   <a href="./certificates/python_fundamentals_cert.jpeg"><img align="left" alt="fundamentals" height="22px" src="./badges/python_fundamentals_badge.svg" style="padding-right:1em; padding-bottom:0.5em;"/></a>
