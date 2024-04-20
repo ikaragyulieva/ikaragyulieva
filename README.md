@@ -7,6 +7,9 @@
 <br/>
 
 I am Ivelina, a Project Manager with background in mobile payment solution service. I am a tech enthusiast recently graduating the Software Engineering program of SoftUni (coding school) initialy with C# and later specialysing with Python. I have experience with Python, Django JS, HTML, CSS as well as technoligues for the succesfgul development of a web applications.
+
+[![Linkedin: ivelina-k](https://img.shields.io/badge/ivelina-k%2C?style=flat&logo=linkedin&logoColor=white&labelColor=blue&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fivelina-k%2F)](https://www.linkedin.com/in/ivelina-k/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/ikaragyulieva?label=follow&style=social)](https://github.com/ikaragyulieva)
 <!--
 *   🌍  I'm based in Geneva, Switzerland
 *   ✉️  You can contact me at [ivelina.karagulieva@gmail.com](mailto:ivelina.karagulieva@gmail.com)
