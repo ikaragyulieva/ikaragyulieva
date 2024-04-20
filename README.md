@@ -2,11 +2,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=HI+THERE,+👋+THIS+IS+IVELINA!;+NICE+TO+MEET+YOU!;" />
 </h1>
 
-<h3 align="center" style="color: #3d64ad;">Code Newbie | Project Manager | Sports Lover </h3>
+<h3 align="center" style="color: #3d64ad;">Code Newbie | Project Manager | Plant Lover :seedling: </h3>
 
 <br/>
 
-I am Ivelina, a Project Manager with background in mobile payment solution service. I am a tech enthusiast recently graduationg the Software Engineering program of SoftUni (coding school) initialy with C# and later specialysing with Python. I have experience with Python, Django JS, HTML, CSS as well as technoligues for the succesfgul development of a web applications.
+I am Ivelina, a Project Manager with background in mobile payment solution service. I am a tech enthusiast recently graduating the Software Engineering program of SoftUni (coding school) initialy with C# and later specialysing with Python. I have experience with Python, Django JS, HTML, CSS as well as technoligues for the succesfgul development of a web applications.
 <!--
 *   🌍  I'm based in Geneva, Switzerland
 *   ✉️  You can contact me at [ivelina.karagulieva@gmail.com](mailto:ivelina.karagulieva@gmail.com)
