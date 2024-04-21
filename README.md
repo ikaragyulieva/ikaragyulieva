@@ -47,11 +47,6 @@ I am Ivelina, a Project Manager with background in mobile payment solution servi
 <div style="display: flex; flex-wrap: wrap">
   <a href="./certificates/Agile%20Essentials%20with%20Scrum%20-%20October%202023%20-%20Certificate.pdf"><img align="left" alt="mysql" height="24px" src="https://img.shields.io/badge/-Essentials-black?style=flat&label=Agile&labelColor=rgb(0%2C31%2C93)" style="padding-right:1em; padding-bottom:0.5em;"/></a>
   <a href="./certificates/Agile%20Advanced%20with%20Scrum%20-%20December%202023%20-%20Certificate.pdf"><img align="left" alt="mysql" height="24px" src="https://img.shields.io/badge/-Advanced-black?style=flat&label=Scrum&labelColor=rgb(37%2C194%2C160)" style="padding-right:1em; padding-bottom:0.5em;"/></a>
-
 </div>
 <br />
-<br />
-<hr />
 
-
-![](./profile-3d-contrib/profile-green-animate.svg)
