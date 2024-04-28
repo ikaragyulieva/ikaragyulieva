@@ -6,7 +6,7 @@
 
 <br/>
 
-<p>I am Ivelina, a Project Manager with background in Mobile Payment Service Solutions. I am a tech enthusiast, currently pursuing the Software Engineering Program of SoftUni, where initially I started studying C#, but then moved to Python as I find it more in line with my interests and future development possibilities. </p>
+<p>I am Ivelina, a Product Manager with background in Mobile Payment Solution Services. I am a tech enthusiast, currently pursuing the Software Engineering Program of SoftUni, where initially I started studying C#, but then moved to Python as I find it more in line with my interests and future development possibilities. </p>
 <p>Curious by nature, plant lover and big foodie, I love exploring and trying new things (I may not like it, but I will at least try it!). </p>
 <p>Always open to collaborate on projects and innovative/disruptive ideas. Feel free to connect with me here: </p>
  <div align="right">
